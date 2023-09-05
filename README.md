@@ -1,1 +1,1 @@
-# React-CDN-content-delivery-network-script-links
+# React.js-CDN-content-delivery-network-script-links
